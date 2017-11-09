@@ -1,2 +1,2 @@
-# instagram-hands-on
+# Instagram Hands On
 Trying out the Instagram API
